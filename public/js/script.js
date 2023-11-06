@@ -101,7 +101,7 @@ function portfolioItemDetails(portfolioItem) {
 
 
 var typed = new Typed(".typing-text", {
-    strings: ["Web Developer", "Open Source Enthusiast", "", "Freelancer"],
+    strings: ["Web Developer", "Open Source Enthusiast", "Digital Marketer", "Freelancer"],
     loop: true,
     typeSpeed: 50,
     backSpeed: 25,
